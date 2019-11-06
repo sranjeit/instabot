@@ -1,0 +1,6 @@
+pkg install python
+pkg install git
+git clone https://github.com/sranjeit/instabot.git --recursive
+pip install -U instabot
+cd instabot/examples/ultimate_schedule/
+python ultimate.py
