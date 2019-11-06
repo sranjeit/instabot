@@ -21,7 +21,7 @@ USERS_FILE = "username_database.txt"
 POSTED_PICS_FILE = "pics.txt"
 # File containing all the photos already posted from the PICS_PATH directory
 
-PICS_PATH = "/Path/to/pics/folder/"
+PICS_PATH = "" #/Path/to/pics/folder/
 # The path of the directory containing the photos the bot will upload
 # NOTE: Being a directory, it must end with '/'
 
