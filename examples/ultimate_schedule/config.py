@@ -32,7 +32,7 @@ PICS_HASHTAGS = (
 # Each string but the last must end with a space
 # NOTE: Instagram allows only for a maximum of 30 hashtags per post.
 
-FOLLOW_MESSAGE = "Follow @my_account for the best photos!"
+FOLLOW_MESSAGE = "Follow @fabpurple_official for the latest collection!"
 # The string to insert under the random caption. The bot will construct each
 # photo caption like the following ->
 # [random caption taken from PHOTO_CAPTIONS]
